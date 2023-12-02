@@ -1,0 +1,19 @@
+html{
+  margin: auto;
+  width: 60%;
+  background-color: bisque;
+}
+
+h1{
+  text-align: center;
+}
+
+#contact{
+  text-align: left;
+  width: 30%;
+  margin: auto;
+}
+
+#contact li{
+  list-style: none;
+}
