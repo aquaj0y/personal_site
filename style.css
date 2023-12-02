@@ -1,0 +1,39 @@
+html {
+  background-color:lemonchiffon;
+  margin: auto;
+  width: 85%;
+}
+
+/* Nav */
+nav{
+  margin: 5em;
+  text-align: right;
+}
+
+/* About Page */
+
+.profile{
+  height: 160px;
+  border-radius: 60%;
+}
+
+/* Portfolio Page */
+
+.logo{
+  max-height: 50px;
+}
+
+.clients{
+  margin: auto;
+  width: 50%;
+}
+
+.service{
+  display: flex;
+  justify-content: space-around;
+}
+
+.service-description{
+  max-height: 60px;
+  max-width: 30%;
+}
